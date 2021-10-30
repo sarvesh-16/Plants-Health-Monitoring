@@ -14,7 +14,7 @@
 </div>
 <br>
 <div align="center">
-  An attempt made to monitor the soil conditions for plant growth using an IOT device
+  An attempt made to monitor the soil conditions for plant growth using an IOT device.
 </div>
 
 ### List of Contents
